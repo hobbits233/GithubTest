@@ -1,2 +1,38 @@
-# Project exclude paths
-/out/
+# Create by .ignore support plugin(hsz.mobi)
+### java template
+*.class
+
+# Mabile Tools for java(J2ME)
+.mtj.temp/
+
+#Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/eror_hotspot.xml
+hs_err_pid*
+
+.idea
+
+*.xml
+
+
+*.bak
+*.class
+*.rar
+*.log
+.project
+.settings
+.classpath
+target
+classes
+lib
+*.DS_Store
+.gradle
+build
+out
+log
+
+
